@@ -10,7 +10,7 @@ Chase Nordengren - [semicolons.net](http://semicolons.net)
 
 **Installation**
 
-Make a copy for each instance you'd like to do this, and set the script to run on the first of each month. 
+Make a copy for each instance you'd like to do this, and set the script to run on the first of each month.
 Variables to Set (in script)
 - Notebookdir - The directory where your text files live. Use a terminating slash
 - Fileprefix - The prefix on the files you want to concatenate
