@@ -16,6 +16,4 @@ Variables to Set (in script)
 - Fileprefix - The prefix on the files you want to concatenate
 - Deletefiles - Set "true" if you want concatenated files to be deleted
 
-**Usage**
-
-In Mail.app, change settings to open mail in Mailto Fastmail.app by default. Then use on a mailto link.
+==
